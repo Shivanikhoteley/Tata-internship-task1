@@ -1,35 +1,26 @@
-# Tata Data Analytics Virtual Internship 2025 – Task 1
+# [Tata Data Analytics Virtual Internship 2025 – Task 1](https://github.com/shivanikhoteley/Tata-internship-task1)#
 
-This repository contains my submission for **Task 1** of the Tata Data Analytics Virtual Internship. The task focused on performing **Exploratory Data Analysis (EDA)** on the **Geldium dataset** to evaluate data quality and uncover preliminary insights.
+This repository contains my submission for **Task 1** of the Tata Data Analytics Virtual Internship 2025. The task focused on **Exploratory Data Analysis (EDA)** using the **Geldium dataset** provided through the GNI (Generative Natural Intelligence) platform.
 
 ---
 
-##🎯 Task Objective
+## 📌 Task Objective
 
-The purpose of this task was to carry out an initial review of the dataset, specifically by:
+To perform data quality assessment and identify issues in the dataset such as:
+- Missing values
+- Inconsistent entries
+- Outlier detection
+- Basic statistical summaries
 
-Identifying missing or incomplete values
--Checking for inconsistent records
--Detecting outliers in numerical features
--Generating basic statistical summaries
+---
 
-##⚙️ Tools & Technologies Used
+## 🛠️ Tools & Platform Used
 
--Programming Language: Python
--Libraries: Pandas, NumPy, Matplotlib, Seaborn
--Environment: Jupyter Notebook / Google Colab
--Documentation & Refinement: ChatGPT (for structuring insights and report writing)
+- **GNI (Generative Natural Intelligence)** platform  
+- Prompt-based EDA  
+- Dataset uploaded in CSV format  
 
-##📊 Key Deliverables
-
--A detailed data quality assessment report
--Statistical summaries of core variables
--Visualization of patterns and anomalies
--Identification of risk factors linked to credit behavior
-
-##🧩 Notes
-
--The dataset was provided in CSV format and processed using Python-based libraries.
--Data preparation and analysis were performed through prompt-driven and code-based exploration.
--Repository includes both the notebook and the EDA summary report for clarity.
+---
+![Visitor Count](https://profile-counter.glitch.me/BandiYamuna-tata-task1-eda-report/count.svg)
+## 💬 Prompt Used in GNI
 
