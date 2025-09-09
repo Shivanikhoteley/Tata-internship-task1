@@ -4,23 +4,34 @@ This repository contains my submission for **Task 1** of the Tata Data Analytics
 
 ---
 
-## 📌 Task Objective
+## [📌 Task Objective](https://github.com/shivanikhoteley/Tata-internship-task1)
 
-To perform data quality assessment and identify issues in the dataset such as:
-- Missing values
-- Inconsistent entries
-- Outlier detection
-- Basic statistical summaries
+The purpose of this task was to carry out an initial review of the dataset, specifically by:
+- Identifying missing or incomplete values
+- Checking for inconsistent records
+- Detecting outliers in numerical features
+- Generating basic statistical summaries
+
+---
+
+## [🛠️ Tools & Platform Used](https://github.com/shivanikhoteley/Tata-internship-task1)
+
+- Programming Language: Python
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn
+- Environment: Jupyter Notebook / Google Colab
+- Documentation & Refinement: ChatGPT (for structuring insights and report writing) 
 
 ---
 
-## 🛠️ Tools & Platform Used
+## [📊 Key Deliverables](https://github.com/shivanikhoteley/Tata-internship-task1)
 
-- **GNI (Generative Natural Intelligence)** platform  
-- Prompt-based EDA  
-- Dataset uploaded in CSV format  
+- A detailed data quality assessment report
+- Statistical summaries of core variables
+- Visualization of patterns and anomalies
+- Identification of risk factors linked to credit behavior
 
----
-![Visitor Count](https://profile-counter.glitch.me/BandiYamuna-tata-task1-eda-report/count.svg)
-## 💬 Prompt Used in GNI
+## [🧩 Notes](https://github.com/shivanikhoteley/Tata-internship-task1)
 
+- The dataset was provided in CSV format and processed using Python-based libraries.
+- Data preparation and analysis were performed through prompt-driven and code-based exploration.
+- Repository includes both the notebook and the EDA summary report for clarity.
